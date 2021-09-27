@@ -1,0 +1,24 @@
+{
+  "name": "bee_rescue_3201-02_fall_2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/bee_rescue_3201-02_fall_2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/bee_rescue_3201-02_fall_2021/issues"
+  },
+  "homepage": "https://github.com/Plasnid/bee_rescue_3201-02_fall_2021#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
